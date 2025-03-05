@@ -1,0 +1,12 @@
+nama, username, dan password bebas, karena akan terekam di database.
+misal:
+Nama - Kelompok 9
+Username - kel9
+Password - kel9
+
+Kelompok 9 Aset
+Oey, Amanda Vanesa Suhendra - 21.N1.0006
+Marilyn Jasmine Arminta - 21.N1.0007
+David Gracelino Putra - 21.N1.0017
+Maria Yuniar Sagoroujou - 21.N1.0019
+Margareta Sheryl Kurniawan, Phan - 21.N40010
