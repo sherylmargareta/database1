@@ -1,3 +1,5 @@
+SOURCE CODE UNTUK PROYEK localhost/dbaset yang terhubung dengan PHP MySQL
+
 nama, username, dan password bebas, karena akan terekam di database.
 misal:
 Nama - Kelompok 9
